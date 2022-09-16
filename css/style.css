@@ -130,20 +130,20 @@ img {
  ************************************************/
 @media screen and (max-width: 1160px) {
     .container {
+        width: 100%;
         max-width: 768px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .container {
-        max-width: 750px;
-        min-width: 480px;
+        max-width: 768px;
     }
 }
 
 @media screen and (max-width: 480px) {
     .container {
-        max-width: 463px;
+        max-width: 480px;
     }
 
     .row {
